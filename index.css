@@ -13,7 +13,7 @@ body {
 	margin-left:20px;
 	margin-right:20px;
 	margin-top:20px;
-	font-size:15px;
+	font-size:14px;
 }
 
 a {
@@ -34,7 +34,28 @@ a {
 }
 
 #b {
-	color: #ff0096;
+	color: #ae81ff;
+}
+
+#g {
+	color: #aef4fd;
+}
+
+
+#f {
+	color: #e7d37a;
+}
+
+
+#e {
+	color: #6593f5;
+}
+
+#h {
+	color: #e9b997;
+}
+#j {
+	color: #e58642;
 }
 
 #k {
@@ -50,3 +71,4 @@ a {
     	50% { color:  #0f0; }
     	99% { color: black; }
 }
+
